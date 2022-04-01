@@ -1,3 +1,3 @@
 ## 💻 My Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennKK)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennKK&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennKK)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennKK&layout=compact)
